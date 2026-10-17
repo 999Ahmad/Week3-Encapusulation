@@ -15,7 +15,7 @@
             set { title = value; } // set method
         }
         public string Author
-        {
+        {   
             get { return author; } // get method
             set
             {
